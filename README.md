@@ -1,6 +1,8 @@
 # Fossil-Fuels-vs.-Electric-Vehicles
 Who and what is harmed by the power plants and mining due to fossil fueled vehicles compared to EVs?
 
+#Lifetime Emissions of CO2
+
 ![lifetimeCo2](https://github.com/user-attachments/assets/31fbe441-f39a-4301-a28b-c52e8b8096ff)
 
 This graph highlights variations depending on regional energy sources by comparing the lifetime CO2 emissions of gasoline and electric cars (EVs) in the US, Europe, and China. Over their lifetime, EVs in the US release about 30 metric tons of CO₂, which is almost 60% less than that of gasoline-powered vehicles, which emit 75 metric tons. With its vast array of renewable energy sources, Europe exhibits even larger reductions; EVs emit 21 metric tons, compared to 67 for gasoline-powered vehicles, a 69% decrease. In China, where coal is still a significant source of electricity, EVs generate roughly 40 metric tons, a 37% difference from gasoline's 63 metric tons. Similarly, EVs in India emit about 50 metric tons, while gasoline-powered vehicles emit 62 metric tons, a smaller 19% decrease as a result of the significant use of fossil fuels. In general, EVs emit far fewer pollutants than gasoline-powered vehicles, particularly in areas with cleaner electrical grids. This highlights the significance of renewable energy in optimizing the environmental advantages of EVs.
