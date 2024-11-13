@@ -1,7 +1,7 @@
 # Fossil-Fuels-vs.-Electric-Vehicles
 Who and what is harmed by the power plants and mining due to fossil fueled vehicles compared to EVs?
 
-#Lifetime Emissions of CO2
+# Lifetime Emissions of CO2
 
 ![lifetimeCo2](https://github.com/user-attachments/assets/31fbe441-f39a-4301-a28b-c52e8b8096ff)
 
