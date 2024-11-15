@@ -1,5 +1,5 @@
 # Fossil-Fuels-vs.-Electric-Vehicles
-Who and what is harmed by the power plants and mining due to fossil fueled vehicles compared to EVs?
+Understanding who and what is harmed by the power plants and mining due to fossil fueled vehicles compared to EVs? The signifigance to comprehend the social, economic, and health effects on populations at risk, it is crucial to investigate who is impacted by mining for gasoline and electric vehicles. Communities in economically unstable areas frequently experience land loss, pollution, and health hazards as a result of the exploitation of fossil fuels and the mining of metals like nickel, lithium, and cobalt for electric vehicles.
 
 # Lifetime Emissions of CO2
 
